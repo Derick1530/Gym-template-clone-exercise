@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "Gym-template-clone-exercise/",
+  base: "/Gym-template-clone-exercise/",
 });
